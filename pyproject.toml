@@ -1,0 +1,20 @@
+[project]
+name = "pos-json-decoder"
+version = "0.0.1"
+authors = [
+  { name="Andrew Allen", email="a2intl@gmail.com" },
+]
+description = "A JSON Decoder with document position annotated elements"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+    "Topic :: File Formats :: JSON",
+]
+license = "MIT"
+license-files = ["LICENSE"]
+
+[project.urls]
+Homepage = "https://github.com/a2intl/pos-json-decoder"
+Issues = "https://github.com/a2intl/pos-json-decoder/issues"
